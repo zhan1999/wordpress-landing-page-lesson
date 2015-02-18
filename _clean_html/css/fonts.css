@@ -1,0 +1,10 @@
+/* font-family: "ExampleRegular"; */
+@font-face {
+	font-family: "ExampleRegular";
+	src: url("../fonts/ExampleRegular/ExampleRegular.eot");
+	src: url("../fonts/ExampleRegular/ExampleRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/ExampleRegular/ExampleRegular.woff") format("woff"),
+	url("../fonts/ExampleRegular/ExampleRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
