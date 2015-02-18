@@ -5,8 +5,12 @@ $text_color: #888
 $main_color: #222
 $bg_light: #FAFAFA
 
+@mixin kerning($kerning)
+	letter-spacing: $kerning + px
+
 body
 	color: $main_color
+	+kerning(1)
 
 a
 	color: $color
