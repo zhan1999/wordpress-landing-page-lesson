@@ -14,7 +14,7 @@
 	<li><a href="http://fortawesome.github.io/Font-Awesome" target="_blank">fortawesome.github.io</a> - Векторные иконки. Использовали для соц. сетей</li>
 	<li><a href="http://codepen.io/anon/pen/azYBoX" target="_blank">codepen.io</a> - Много интересного кода. Спасибо за Sandwich :)</li>
 	<li><a href="http://pixelcog.github.io/parallax.js" target="_blank">pixelcog.github.io/parallax.js</a> - Параллакс эффект</li>
-	<li><a href="http://dimsemenov.com/plugins/magnific-popup" target="_blank">dimsemenov.com/plugins/magnific-popup</a> - Респонсив попап менеджер, не использующих графику</li>
+	<li><a href="http://dimsemenov.com/plugins/magnific-popup" target="_blank">dimsemenov.com/plugins/magnific-popup</a> - Респонсив попап менеджер, не использующий графику</li>
 	<li><a href="http://github.com/malihu/page-scroll-to-id" target="_blank">github.com/malihu/page-scroll-to-id</a> - Плагин навигации по Landing Page</li>
 	<li><a href="http://imakewebthings.com/waypoints" target="_blank">imakewebthings.com/waypoints</a> - Триггер для скролла</li>
 	<li><a href="http://daneden.github.io/animate.css" target="_blank">daneden.github.io/animate.css</a> - Анимация элементов на странице</li>
