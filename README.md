@@ -23,4 +23,6 @@
 	<li><a href="http://sass-lang.com" target="_blank">sass-lang.com</a> - Препроцессор SASS</li>
 	<li><a href="http://koala-app.com" target="_blank">koala-app.com</a> - Компилятор для препроцессоров</li>
 	<li><a href="http://fontsquirrel.com/fonts/raleway" target="_blank">fontsquirrel.com/fonts/raleway</a> - Бесплатный шрифт для нашей темы</li>
+	<li><a href="http://sublimetext.com" target="_blank">sublimetext.com</a> - Редактор для фронт-енда</li>
+	<li><a href="http://jetbrains.com/phpstorm" target="_blank">jetbrains.com/phpstorm</a> - Редактор для бэк-енда</li>
 </ul>
