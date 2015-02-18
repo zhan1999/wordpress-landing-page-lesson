@@ -1,24 +1,26 @@
-# Создание Landing Page на WordPress
+# Создание Landing Page на WordPress (Видеокурс)
 
-Что использовали:
+<p>Что использовали:</p>
 
-ru.wordpress.org - Собственной персоной
-elementary.io - Спасибо за логотип :)
-jquery.com - Популярнейший javaScript Framework
-stocksnap.io - Сервис качественных бесплатных фотографий для веб-дизайна
-wireframe.cc/fEKu0b - Отличный сервис для скетчинга
-gist.github.com/agragregra - Сервис для хранения полезного кода
-inkscape.org - Векторный редактор SVG
-linea.io - Тонкие векторные иконки
-fortawesome.github.io/Font-Awesome - Векторные иконки. Использовали для соц. сетей
-codepen.io/anon/pen/azYBoX - Много интересного кода. Спасибо за Sandwich :)
-pixelcog.github.io/parallax.js - Параллакс эффект
-dimsemenov.com/plugins/magnific-popup - Респонсив попап менеджер, не использующих графику
-github.com/malihu/page-scroll-to-id - Плагин навигации по Landing Page
-imakewebthings.com/waypoints - Триггер для скролла
-daneden.github.io/animate.css - Анимация элементов на странице
-masonry.desandro.com - Сортабельные анимированные плитки в портфолио
-bourbon.io - Коллекция миксинов для SASS
-sass-lang.com - Препроцессор SASS
-koala-app.com - Компилятор для препроцессоров
-fontsquirrel.com/fonts/raleway - Бесплатный шрифт для нашей темы
+<ul>
+	<li><a href="//ru.wordpress.org" target="_blank">ru.wordpress.org</a> - Собственной персоной</li>
+	<li><a href="//elementary.io" target="_blank">elementary.io</a> - Спасибо за логотип :)</li>
+	<li><a href="//jquery.com" target="_blank">jquery.com</a> - Популярнейший javaScript Framework</li>
+	<li><a href="//stocksnap.io" target="_blank">stocksnap.io</a> - Сервис качественных бесплатных фотографий для веб-дизайна</li>
+	<li><a href="//wireframe.cc/fEKu0b" target="_blank">wireframe.cc</a> - Отличный сервис для скетчинга</li>
+	<li><a href="//gist.github.com/agragregra" target="_blank">gist.github.com</a> - Сервис для хранения полезного кода</li>
+	<li><a href="//inkscape.org" target="_blank">inkscape.org</a> - Векторный редактор SVG</li>
+	<li><a href="//linea.io" target="_blank">linea.io</a> - Тонкие векторные иконки</li>
+	<li><a href="//fortawesome.github.io/Font-Awesome" target="_blank">fortawesome.github.io</a> - Векторные иконки. Использовали для соц. сетей</li>
+	<li><a href="//codepen.io/anon/pen/azYBoX" target="_blank">codepen.io</a> - Много интересного кода. Спасибо за Sandwich :)</li>
+	<li><a href="//pixelcog.github.io/parallax.js" target="_blank">pixelcog.github.io/parallax.js</a> - Параллакс эффект</li>
+	<li><a href="//dimsemenov.com/plugins/magnific-popup" target="_blank">dimsemenov.com/plugins/magnific-popup</a> - Респонсив попап менеджер, не использующих графику</li>
+	<li><a href="//github.com/malihu/page-scroll-to-id" target="_blank">github.com/malihu/page-scroll-to-id</a> - Плагин навигации по Landing Page</li>
+	<li><a href="//imakewebthings.com/waypoints" target="_blank">imakewebthings.com/waypoints</a> - Триггер для скролла</li>
+	<li><a href="//daneden.github.io/animate.css" target="_blank">daneden.github.io/animate.css</a> - Анимация элементов на странице</li>
+	<li><a href="//masonry.desandro.com" target="_blank">masonry.desandro.com</a> - Сортабельные анимированные плитки в портфолио</li>
+	<li><a href="//bourbon.io" target="_blank">bourbon.io</a> - Коллекция миксинов для SASS</li>
+	<li><a href="//sass-lang.com" target="_blank">sass-lang.com</a> - Препроцессор SASS</li>
+	<li><a href="//koala-app.com" target="_blank">koala-app.com</a> - Компилятор для препроцессоров</li>
+	<li><a href="//fontsquirrel.com/fonts/raleway" target="_blank">fontsquirrel.com/fonts/raleway</a> - Бесплатный шрифт для нашей темы</li>
+</ul>
