@@ -2,7 +2,7 @@
 
 <p>Бесплатный видеокурс по созданию сайта на WordPress от А до Я.</p>
 
-<p>Сайт проекта: <a href="http://webdesign-master.ru" target="_blank"></a></p>
+<p>Сайт проекта: <a href="http://webdesign-master.ru" target="_blank">webdesign-master.ru</a></p>
 
 <p>Что использовали:</p>
 
