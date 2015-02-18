@@ -5,6 +5,7 @@
 <ul>
 	<li><a href="http://ru.wordpress.org" target="_blank">ru.wordpress.org</a> - Собственной персоной</li>
 	<li><a href="http://elementary.io" target="_blank">elementary.io</a> - Спасибо за логотип :)</li>
+	<li><a href="http://getbootstrap.com" target="_blank">getbootstrap.com</a> - Адаптивная сетка</li>
 	<li><a href="http://jquery.com" target="_blank">jquery.com</a> - Популярнейший javaScript Framework</li>
 	<li><a href="http://stocksnap.io" target="_blank">stocksnap.io</a> - Сервис качественных бесплатных фотографий для веб-дизайна</li>
 	<li><a href="http://wireframe.cc/fEKu0b" target="_blank">wireframe.cc</a> - Отличный сервис для скетчинга</li>
