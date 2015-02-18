@@ -18,7 +18,7 @@
 	<li><a href="http://github.com/malihu/page-scroll-to-id" target="_blank">github.com/malihu/page-scroll-to-id</a> - Плагин навигации по Landing Page</li>
 	<li><a href="http://imakewebthings.com/waypoints" target="_blank">imakewebthings.com/waypoints</a> - Триггер для скролла</li>
 	<li><a href="http://daneden.github.io/animate.css" target="_blank">daneden.github.io/animate.css</a> - Анимация элементов на странице</li>
-	<li><a href="http://masonry.desandro.com" target="_blank">masonry.desandro.com</a> - Сортабельные анимированные плитки в портфолио</li>
+	<li><a href="http://mixitup.kunkalabs.com" target="_blank">mixitup.kunkalabs.com</a> - Сортабельные анимированные плитки в портфолио</li>
 	<li><a href="http://bourbon.io" target="_blank">bourbon.io</a> - Коллекция миксинов для SASS</li>
 	<li><a href="http://sass-lang.com" target="_blank">sass-lang.com</a> - Препроцессор SASS</li>
 	<li><a href="http://koala-app.com" target="_blank">koala-app.com</a> - Компилятор для препроцессоров</li>
