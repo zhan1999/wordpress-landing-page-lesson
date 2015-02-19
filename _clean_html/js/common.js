@@ -12,8 +12,6 @@ $(document).ready(function() {
 		$(".sandwich").toggleClass("active");
 	});
 
-	$("section h2").animated("fadeInUp", "fadeOtDown");
-
 	$(".top_mnu ul a").click(function() {
 		$(".top_mnu").fadeOut(600);
 		$(".sandwich").toggleClass("active");
