@@ -23,6 +23,31 @@ section,
 .main_head
 	position: relative
 
+section
+	padding: 70px 0 90px
+	h2
+		text-align: center
+		font-size: 24px
+		text-transform: uppercase
+		margin: 0 0 15px
+
+.s_descr_wrap
+	text-align: center
+	.s_descr
+		display: inline-block
+		text-transform: uppercase
+		font-size: 12px
+		position: relative
+		margin-bottom: 130px
+		&::after
+			content: ""
+			height: 1px
+			left: 50%
+			margin-left: -75px
+			margin-top: 60px
+			position: absolute
+			width: 150px
+
 .main_head
 	min-height: 620px
 	padding-top: 20px
@@ -72,14 +97,14 @@ svg
 		display: block
 
 
-$w: 34px
+$w: 28px
 $h: 3px
 
 .sandwich 
 	width: $w
 	height: $w
 	position: absolute
-	top: 12px
+	top: 8px
 	bottom: 0
 	left: 0
 	right: 0
@@ -206,4 +231,7 @@ svg
 .toggle_mnu
 	background-color: #000
 
-
+.main_footer
+	padding: 50px 0
+	font-size: 13px
+	font-weight: 300
