@@ -1,6 +1,6 @@
 # Создание Landing Page на WordPress (Видеокурс)
 
-<p>Бесплатный видеокурс по созданию сайта на WordPress от А до Я.</p>
+<p>Бесплатный видеокурс по созданию одностраничного сайта на WordPress от А до Я.</p>
 
 <p>Сайт проекта: <a href="http://webdesign-master.ru" target="_blank">webdesign-master.ru</a></p>
 
