@@ -5,7 +5,8 @@ a {
   color: #FF6347; }
 
 p,
-body .main_footer {
+body .main_footer,
+.s_about li {
   color: #888; }
 
 .color_element {
@@ -37,7 +38,17 @@ body .main_footer {
   color: #FAFAFA;
   letter-spacing: 5px; }
 
+.personal_header {
+  letter-spacing: 2px; }
+
 .s_descr {
   letter-spacing: 4px; }
   .s_descr::after {
     background-color: #222; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #888; }
+
+.s_about p:nth-child(even) {
+  color: #FF6347; }

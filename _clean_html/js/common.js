@@ -1,7 +1,12 @@
 $(document).ready(function() {
 
-	$(".top_text h1").animated("fadeInDown", "fadeOutUp");
-	$(".top_text p, .section_header").animated("fadeInUp", "fadeOutDown");
+	$(".popup").magnificPopup({type:"image"});
+
+	$(".section_header").animated("fadeInUp", "fadeOutDown");
+
+	$(".animation_1").animated("flipInY", "fadeOutDown");
+	$(".animation_2").animated("fadeInLeft", "fadeOutDown");
+	$(".animation_3").animated("fadeInRight", "fadeOutDown");
 
 	function heightDetect() {
 		$(".main_head").css("height", $(window).height());
@@ -35,6 +40,11 @@ $(document).ready(function() {
 
 });
 $(window).load(function() {
+
 	$(".loader_inner").fadeOut();
 	$(".loader").delay(400).fadeOut("slow");
+
+	$(".top_text h1").animated("fadeInDown", "fadeOutUp");
+	$(".top_text p").animated("fadeInUp", "fadeOutDown");
+
 }); 
