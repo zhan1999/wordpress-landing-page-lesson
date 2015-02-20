@@ -180,15 +180,16 @@ svg
 	ul
 		margin-top: 180px
 		text-align: center
+		+animation-duration(.01s)
 		li
 			&:nth-child(1) a
-				+animation-duration(.5s)
+				+animation-delay(0)
 			&:nth-child(2) a
-				+animation-duration(1s)
+				+animation-delay(.1s)
 			&:nth-child(3) a
-				+animation-duration(1.5s)
+				+animation-delay(.2s)
 			&:nth-child(4) a
-				+animation-duration(2s)
+				+animation-delay(.3s)
 		a
 			color: #fff
 			display: block
