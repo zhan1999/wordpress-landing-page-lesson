@@ -180,6 +180,15 @@ svg
 	ul
 		margin-top: 180px
 		text-align: center
+		li
+			&:nth-child(1) a
+				+animation-duration(.5s)
+			&:nth-child(2) a
+				+animation-duration(1s)
+			&:nth-child(3) a
+				+animation-duration(1.5s)
+			&:nth-child(4) a
+				+animation-duration(2s)
 		a
 			color: #fff
 			display: block
@@ -219,6 +228,7 @@ svg
 		p
 			margin: 0
 			text-transform: uppercase
+			+animation-delay(1.5s)
 		h1
 			display: inline-block
 			padding: 10px 35px
@@ -230,6 +240,7 @@ svg
 			background-color: rgba(0,0,0,.1)
 			margin-left: 20px
 			margin-right: 20px
+			+animation-delay(1s)
 
 .toggle_mnu
 	background-color: #000
