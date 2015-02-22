@@ -57,6 +57,10 @@ $(document).ready(function() {
 		$(this).find(".podrt_descr").attr("id", "work_" + i);
 	});
 
+	$("input, select, textarea").jqBootstrapValidation();
+
+	$(".top_mnu ul a").mPageScroll2id();
+
 });
 $(window).load(function() {
 
