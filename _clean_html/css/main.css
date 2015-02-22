@@ -444,6 +444,9 @@ svg path {
 .form-group {
   display: block;
   margin-bottom: 20px; }
+  .form-group .color_element {
+    font-weight: 700;
+    font-size: 18px; }
   .form-group .text-danger {
     font-size: 11px;
     margin-top: 5px;
