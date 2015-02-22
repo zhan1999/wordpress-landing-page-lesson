@@ -314,7 +314,6 @@ svg path {
 .resume_container h3 {
   margin-top: 30px; }
 .resume_container .year {
-  color: #fff;
   font-weight: 600;
   font-style: italic;
   display: inline-block;
@@ -327,7 +326,7 @@ svg path {
 .resume_container .resume_description {
   font-style: italic; }
 .resume_container .resume_item {
-  margin-bottom: 35px; }
+  margin-bottom: 40px; }
   .resume_container .resume_item p {
     margin-top: 10px; }
   .resume_container .resume_item:last-child {

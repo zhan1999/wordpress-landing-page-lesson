@@ -20,6 +20,9 @@
 		text-align: left;
 		margin-bottom: 10px;
 	}
+	.resume_container .left h3 {
+		margin-top: 0;
+	}
 }
 
 /* Extra Small Devices, Phones */

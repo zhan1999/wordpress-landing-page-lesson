@@ -60,6 +60,7 @@ section h3 {
   font-weight: 600; }
 
 .resume_item .year {
-  background-color: #FF6347; }
+  background-color: #FF6347;
+  color: #fff; }
 .resume_item .resume_description {
   letter-spacing: 1px; }
