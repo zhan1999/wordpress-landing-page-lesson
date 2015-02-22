@@ -8,7 +8,10 @@ $(document).ready(function() {
 	});
 
 	$(".popup").magnificPopup({type:"image"});
-	$(".popup_content").magnificPopup({type:"inline", midClick: true});
+	$(".popup_content").magnificPopup({
+		type:"inline",
+		midClick: true
+	});
 
 	$(".section_header").animated("fadeInUp", "fadeOutDown");
 
