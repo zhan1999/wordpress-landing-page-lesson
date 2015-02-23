@@ -3,6 +3,7 @@
 <p>Бесплатный видеокурс по созданию одностраничного сайта на WordPress от А до Я.</p>
 
 <p>Сайт проекта: <a href="http://webdesign-master.ru" target="_blank">webdesign-master.ru</a></p>
+<p>YouTube канал: <a href="http://www.youtube.com/user/agragregra" target="_blank">http://www.youtube.com/user/agragregra</a></p>
 
 <p>Что использовали:</p>
 
