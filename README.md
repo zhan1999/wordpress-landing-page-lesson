@@ -7,7 +7,7 @@
 <p>Сайт проекта: <a href="http://webdesign-master.ru" target="_blank">webdesign-master.ru</a></p>
 <p>YouTube канал: <a href="http://www.youtube.com/user/agragregra" target="_blank">http://www.youtube.com/user/agragregra</a></p>
 
-<p>Что использовали:</p>
+<h3>Что использовали:</h3>
 
 <ul>
 	<li><a href="http://ru.wordpress.org" target="_blank">ru.wordpress.org</a> - Собственной персоной</li>
