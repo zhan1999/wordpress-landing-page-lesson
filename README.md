@@ -1,6 +1,6 @@
 # Создание Landing Page на WordPress
 
-![](https://raw.githubusercontent.com/agragregra/wordpress-landing-page-lesson/master/_mockup.jpg)
+![Создание Landing Page на WordPress](https://raw.githubusercontent.com/agragregra/wordpress-landing-page-lesson/master/_mockup.jpg)
 
 <p>Бесплатный видеокурс по созданию одностраничного сайта на WordPress от А до Я.</p>
 
