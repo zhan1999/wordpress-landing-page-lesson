@@ -1,5 +1,7 @@
 # Создание Landing Page на WordPress (Видеокурс)
 
+![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+
 <p>Бесплатный видеокурс по созданию одностраничного сайта на WordPress от А до Я.</p>
 
 <p>Сайт проекта: <a href="http://webdesign-master.ru" target="_blank">webdesign-master.ru</a></p>
